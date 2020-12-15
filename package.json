@@ -1,0 +1,30 @@
+{
+  "name": "binary-search-js",
+  "version": "1.0.0",
+  "description": "This is a javascript library to perform binary search on a sorted array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashgupta417/binary-search-js.git"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "search",
+    "fast",
+    "search",
+    "array",
+    "efficient",
+    "sorted",
+    "array"
+  ],
+  "author": "Yash Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashgupta417/binary-search-js/issues"
+  },
+  "homepage": "https://github.com/yashgupta417/binary-search-js#readme"
+}
